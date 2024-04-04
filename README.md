@@ -3,4 +3,4 @@
 
 Данные материалы созданы в рамках [Лабораторной работы курса архитектуры ЭВМ](https://docs.google.com/document/d/1E2JM_H5ihhbRT28hHgiqIqx5WkjHefm6gGk62HK9zVI/edit).
 
-![image of proc-cache-memory system][cache.png]
+![image of proc-cache-memory system](cache.png)
